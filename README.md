@@ -112,4 +112,5 @@ Make sure you have the following installed:
 
 
 
-Last updated: 2025-06-18 *
+
+Last updated: 2025-06-19 →
