@@ -156,4 +156,5 @@ Make sure you have the following installed:
 
 
 
-Last updated: 2025-08-01 ⇒
+
+Last updated: 2025-08-02 →
